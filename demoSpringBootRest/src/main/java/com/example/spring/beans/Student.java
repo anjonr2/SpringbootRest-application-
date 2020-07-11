@@ -1,5 +1,6 @@
 package com.example.spring.beans;
 
+/****Student Bean class****/
 public class Student {
 	String name;
 	int age;
